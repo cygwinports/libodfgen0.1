@@ -1,6 +1,6 @@
 NAME="libodfgen0.1"
 VERSION=0.1.6
-RELEASE=1
+RELEASE=2
 CATEGORY="Libs"
 SUMMARY="Library for creating ODF documents"
 DESCRIPTION="Library for creating OpenDocument Format documents"
@@ -14,5 +14,3 @@ libodfgen0_1_1_CONTENTS="--exclude=html usr/bin/*-0.1-1.dll usr/share/doc/"
 libodfgen0_1_devel_CONTENTS="usr/include/ usr/lib/"
 libodfgen0_1_doc_CATEGORY="Doc"
 libodfgen0_1_doc_CONTENTS="usr/share/doc/${NAME}/html/"
-
-KEEP_LA_FILES="none"
